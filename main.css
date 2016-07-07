@@ -1,0 +1,23 @@
+body {
+	background-color: black;
+}
+
+h1 {
+	border: 1px solid grey;
+	color: white;
+	width: 50%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+
+div {
+	width: 50%;
+	margin: 0 auto;
+}
+
+canvas {
+	border: 1px solid gray;
+	background-color: white;
+	margin: 20px auto;
+}
